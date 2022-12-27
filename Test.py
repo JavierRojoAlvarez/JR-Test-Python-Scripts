@@ -1,2 +1,6 @@
-print ("Hello")
-print ("Hello2")
+print ("Hello!!")
+print ("Hello3")
+x = 5
+y = 6
+z = x + y
+print (z)
